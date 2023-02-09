@@ -53,6 +53,13 @@ section#about-me-section {
     margin: 50px 100px;
 }
 
+.about-text-area nav ul {
+    padding: 0;
+}
+.about-text-area nav ul li{
+    list-style:none;
+}
+
 /*My service plan section CSS start*/
 #my-plan-section{
     text-align: center;
